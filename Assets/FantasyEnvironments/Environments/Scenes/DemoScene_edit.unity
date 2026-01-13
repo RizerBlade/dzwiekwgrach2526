@@ -2505,18 +2505,18 @@ MonoBehaviour:
     Path: event:/Player/sfx_player_footsteps
   jumpEvent:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1394418134
+      Data2: 1205365453
+      Data3: 994334395
+      Data4: -857724534
+    Path: event:/Player/sfx_player_jump
   landEvent:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: 1281440202
+      Data2: 1112639055
+      Data3: 1495319176
+      Data4: -1752198037
+    Path: snapshot:/Inside_Room
   isGrounded: 1
   isJumping: 0
 --- !u!1 &688602384
